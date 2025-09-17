@@ -1,0 +1,16 @@
+        #kaitou{
+           text-align: center;
+        }
+        #jinwang{
+            text-align: center;;
+        }
+        #video{
+            width: 20%;
+            height: 20%;
+            display: block;
+            margin: 0 auto;
+            border: 1px solid black;
+            border-radius: 10px;
+            padding: 10px;
+            text-align: center;
+        }
